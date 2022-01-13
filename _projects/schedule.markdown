@@ -3,17 +3,17 @@ layout: page
 permalink: /projects_schedule
 ---
 
-# CS1980 and CS1640 FALL 2021 COURSE SCHEDULE #
+# CS1980 and CS1640 SPRING 2022 COURSE SCHEDULE #
 
-**This schedule is tentative and likely to change!**
+**This schedule is ~tentative~ wrong! and likely to change!**
 {: style="color: #F00"}
 
 As always, keep up with the [University Academic Calendar][university-calendar] for general important university dates.
 
 |Date          | Topic                                                                                                                             |
 |--------------+-----------------------------------------------------------------------------------------------------------------------------------|
-| August 27    | Introduction                                                                                                                      |
-| September 3  | Project pitches - save time after class                                                                                           |
+| January 14    | Introduction                                                                                                                      |
+| January 21  | Project pitches - save time after class things tend to drag a bit :)                                                                                  |
 | September 10 | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) - project begins!                                               |
 | September 17 | [Presentation 2]({{site.baseurl}}/lectures/Capstone_Lecture2_RequirementsElicitation.pdf)  - Project proposal due (one per group) |
 | September 24 | Retrospective 1                                                                                                                   |
