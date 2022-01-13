@@ -37,11 +37,11 @@ emergency).
 
 ## Presentation organization
 
-* We will conduct a Doodle Poll on presentation dates in class on our first class (1/ 14).  The below link will go live on that date (first-come-first-serve):
+* We will conduct a Doodle Poll on presentation dates in class on our second class (1/21).  The below link will go live on that date (first-come-first-serve):
   * [Doodle Poll (Click)]()
 
-* Each student is expected to present for **20 minutes**, with 15 minute Q&A
-  and 15 minute peer review.  There will be a folder in TopHat for each
+* Each student is expected to present for **15 minutes**, with 5 minute Q&A
+  and 5 minute peer review.  There will be a folder in TopHat for each
 presenter, and under it, slides for the presentation, along with the peer
 review questions.  
 
