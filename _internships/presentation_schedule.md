@@ -11,7 +11,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 1 (Week of 14 JAN)
 
 * Introduction to syllabus and course requirements
-* [Lecture on giving a good presentation](lectures/lecture-on-presentations-internship.pdf)
+* [Lecture on giving a good presentation](/lectures/lecture-on-presentations-internship.pdf)
   
 ## WEEK 2 (Week of 21 JAN)
 
