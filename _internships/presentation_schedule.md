@@ -19,7 +19,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 28 JAN)
 
-* Student presentation
+* Richard Goulazian
   
 ## WEEK 4 (Week of 4 FEB)
 
