@@ -216,7 +216,7 @@ The syllabus data include the university, year, and field of study of each colle
 the network
 
 * Team size: 3-4 students
-* POC: Prof. Morgan R. Frank (MRFRANK at pitt.edu)
+* POC: Prof. Morgan R. Frank (MRFRANK@pitt.edu)
 
 
 ### GUI for AppArmor
@@ -237,7 +237,7 @@ Preferred, but not required, skills:
 * unit testing
 
 * Team size: 4-5 students
-* POC: Bill Garrison (bill at cs.pitt.edu)
+* POC: Bill Garrison (bill@cs.pitt.edu)
 
 ### [Language Revitalization Game (link)](https://docs.google.com/document/d/1ZwBaGdPmPtuh9_YobtqD5oEYgWchlaOW4uX5cVLGyIo)
 The purpose of this project is to design and implement a game that would help preserve and revitalize the Yup'ik and Gwich'in languages. 
@@ -251,7 +251,25 @@ The third level will build on top of the first and second levels and augment the
 The learner will have access to a schema that explains how the language is used in the specific quest context. Through these schemas that illustrate the full interaction, the learners will be encouraged to pursue the game while learning how to use the language. The language presented in the schemas also gives the learners the opportunity of different choices of expressions to use in the situation so that they can develop agency in using the more adequate language option to express themselves while completing the quest.
 
 * Team size: 4 students
-* POC: Dmitriy Babichenko (dmb72 at pitt.edu)
+* POC: Dmitriy Babichenko (dmb72@pitt.edu)
+
+## Projects with external people
+
+### Film Network Web App
+ 
+As algorithmic recommender systems take over the consumption of movie-going through streaming platforms, it grows increasingly difficult for everyday viewers to diversify their taste in films that transcends what their specific streaming service offers. The film network web application overcomes this problem by showing a film's cinematic "family tree"—that is, its key movie ancestors, stylistic siblings, and progeny—in two key ways: (1) displaying multiple graph network views of cinematic connections (whether that be from film movements, tracing influence, reviews, or the people involved) and (2) inviting users to create profiles and participate by suggesting new film relationships in their page, or discuss in the forum of a particular page by making arguments for additional, not-yet-written-about relationships. Users will be able to search for any film and discover possible family tree branches for each film, along with quotes from (and links to) existing writing( in the page’s crowdsource bibliography) and users' submitted written arguments, so that users can further consider—and endorse and reply to—proposed connections.
+ 
+The purpose of this application is to encourage users to explore more cinematic work created throughout its existing history by placing the films on a timeline in relationship with each other instead of limiting themselves to only consume the newest films. This tool will help users find new connections in films, allowing them to experience the many innovations and approaches of which cinema operates.
+ 
+Applicable Skills: 
+* SQL/Neo4j towards database queries
+* CSS and Javascript for front end
+* Python, Flask, or Pyramid for the back end
+
+
+* Team Size: 3 Students
+* POC: Jeff Heinzl (Visiting Lecturer, English Department) jmh173@pitt.edu
+
 
 ## Bioinformatics/Computational Biology projects (**CS students can apply to some**)
 
@@ -269,7 +287,7 @@ In this project students will work on 3Dmol.js (https://3dmol.org/), a JavaScrip
 All projects will make extensive use of JavaScript.  In some, but not all, cases knowledge of jQuery, WebGL, or chemistry will be needed.
 
 * Team size: 3/4 students
-* POC: David Koes (dkoes at pitt.edu)
+* POC: David Koes (dkoes@pitt.edu)
 
 
 ### Takis Benos group
