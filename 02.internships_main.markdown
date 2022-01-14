@@ -45,8 +45,8 @@ emergency).
 presenter, and under it, slides for the presentation, along with the peer
 review questions.  
 
-* Please review the [Lecture on Presentations] (to be linked) and the [Lecture on
-  Assertion Evidence Format] (to be linked) before giving your presentation.  
+* Please review the [Lecture on Presentations] (/lectures/lecture-on-presentations-internship.pdf) and the [Lecture on
+  Assertion Evidence Format] (/lectures/lecture-on-assertion-evidence-format.pdf) before giving your presentation.  
 
 * Presenters must submit their presentation slides to the "Presentation Slides"
   assignment on Canvas the day before, by **Thursday midnight**.  The slides
