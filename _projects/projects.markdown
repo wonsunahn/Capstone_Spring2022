@@ -21,16 +21,14 @@ Note: Some of you may be working on private projects. Please file an issue on th
 
 ## Industry Capstone Projects
 
-### NetApp - Develop a kernel extension for an Open Source File System
- Details TBD. But expect using FUSE to manage a filesystem.
-<!--
-
-[Develop a kernel extension for an Open Source File System]({{site.baseurl}}/projects/pdfs/NetApp-SOS-Pitt-Capstone-Abstract-Fall-2021.pdf)
+[Develop a kernel extension for an Open Source File System]({{site.baseurl}}/projects/pdfs/NetApp-SOS-Pitt-Capstone-Abstract-Spring-2022.pdf)
 
 **_Project Background_**
 Embedded and distributed systems focused projects are not commonly provided at a bachelor’s level Capstone project.  Our goal is to provide an opportunity for aspiring embedded systems engineers to gain experience in this area utilizing an open source embedded file system as a base for developing a specific kernel extension.
 Developers at NetApp have been optimizing and enhancing our embedded proprietary file system (WAFL – write anywhere file layout) for over 20 years.  Because of the proprietary nature of the file system we will be using an open source equivalent for this project.   Working in the C language, students will gain real-life experience developing for embedded, distributed systems.
-Project Summary 
+
+**_Project Summary_**
+
 In this project, students will work with the FUSE open source file system installed on Ubuntu Linux platform. The project team will work through the detailed steps below to implement a kernel extension that reports the file system space usage.
 Project Details 
  Over the course of this Capstone project, students will accomplish the following high-level goals: 
@@ -43,8 +41,7 @@ Project Details
 •	Update the in-memory database based on incoming fileops.
 •	Implement a space enforcement feature which prevents write fileops that exceed a defined usage limit.
 
-	 
- -->
+
  
 **_About NetApp_**   
 NetApp is the Data Authority in the Hybrid Cloud.
@@ -180,7 +177,21 @@ Good skills to have:
 * Team size: 3-4 students
 * POC: Prof Jacob Biehl, Ph.D. (CS/SCI), Luis Oliveira
 
-### Henrique
+### Using explainable AI to understand and develop voice privacy
+
+In this project, we will explore the use of explainable AI to understand and develop obfuscation functions to keep your voice private while asking voice assistants (like Alexa) for help with tasks. We are currently exploring ML techniques and Neural Net models to classify voice emotions (e.g., happy, angry, scared, sad). Our goal is to use AI techniques to develop functions to obfuscate a subset of emotions considered private (e.g., angry and scared) while allowing other emotions (e.g., sad and happy) to be still classified. Successful transformations (call it "defense") will allow the non-private emotions to be classified while inhibiting or hindering the classification of other emotions. The software environment needs to be deployed in a GPU-enable server. This project will carry out the following tasks (meet weekly and check code, data, results in GitHub). A summary of the tasks:
+
+1. Read our brief summary of the book "Profiling humans from their voice" describing voice privacy issues and watch the video for a fast introduction.
+2. Implement three ML models to classify emotions. You can find an example with Decision Trees and Random Forests here.  Read and understand the software environment (what are the inputs, outputs, how inputs are read, what configurations exist, what are the different options for utility, defenses, and attacks).
+3. Modify the software to also collect the following metrics: Accuracy, F1, false positives, and false negatives.
+4. Search and implement 2 more Datasets, run the software, produce results similar to existing results but with new datasets (for all metrics).
+5. Isolate the results per dataset (only evaluate with single datasets and compare the results).
+6. Use the Shap library to explain the results from step 2 and rank the features in order of importance.
+7. Retrain the models from step 2 while removing the most important features of a particular emotion (based on step 6) for each sample.
+8. Process and plot the results.
+9. Analyze the outputs and write a final report.
+10. If results from step 8 results are unsatisfactory, repeat step 7 with a different approach for removing features.  
+
 
 * Team size: 2-3 students
 * POC: TBD
@@ -269,6 +280,45 @@ Applicable Skills:
 
 * Team Size: 3 Students
 * POC: Jeff Heinzl (Visiting Lecturer, English Department) jmh173@pitt.edu
+
+
+### Project: [Allegheny County Policing Project (ACPP) v.2.0](https://www.grieftoaction.org/#/)
+
+Since June 2020, [Center for Analytical Approaches to Social Innovation](http://caasi.pitt.edu) student and community-led teams have been building web tools to help grassroots racial justice organizations. Our work reflects the contribution of more than 170 volunteers.  In Fall 2021, CAASI launched [412Connect](https://www.412connect.org/) - a Black-owned Business scavenger hunt platform (news [here](https://www.yearofdataandsociety.pitt.edu/kickoff-data-and-society-conversation-zeroes-connecting-black-owned-businesses-students) and [here](https://www.pitt.edu/pittwire/accolades-honors/412connect-project-transforms-grief-action)), and [Allegheny County Policing Project (ACPP)](https://www.grieftoaction.org) - a tool for Allegheny County residents to navigate our 100+ police departments and their complicated accountability rules (Year of Data and Society video [here](https://drive.google.com/file/d/12-d2hUd4INB1YHoq4_6PrfFGFfDRRYJE/view), 1Hood Power Hour video [here](https://www.youtube.com/watch?t=1102&v=W1MNkl4Isaw)).  
+
+The national police reform nonprofit Campaign Zero and activists from Hennepin County (Minneapolis, MN) have approached CAASI with a request to replicate or expand the ACPP website to other counties. Our goal for Spring 2022 is to take the existing site and turn it into a Python package. We hope to rewrite the site's various functionalities (eg. [interactive police dept map](https://www.grieftoaction.org/#/map), [police contract search function](https://www.grieftoaction.org/#/researchers), misconduct complaint tool) into neatly documented modules for the package. This way other counties would be able to create their own police contract navigator simply by installing the package and populating a pre-designed Google sheet.  
+
+Project goals: 
+* Add continuous integration (CI) testing to ensure software quality and integrity
+* Automate creation of Docker images for easy deployment for outside community organizations
+* Make currently “hard-coded” values modifiable by creating configuration files for use by community organizers
+* Redo entire workflow for gathering input municipality and police contract data
+* Refactor data storage, including a rewrite of the database schema and rewrite of in-memory representations
+
+* Team size: 3/4 students
+* You will be working with:  
+    - Capstone advisor: Prof Nick Farnan, SCI
+    - CAASI Director: Prof Sera Linardi, GSPIA
+    - CAASI Tech lead: Collin Griffin, SCI
+
+### Authoring system for evaluating surgical skill
+
+**Background**
+
+Surgeon trainees spend a great deal of time in the operating room learning how to perform surgeries. However, unlike students in classrooms, they do not take tests. Instead, they are observed and rated during surgeries in the operating room by experienced attending surgeons. These evaluations take time, and so many surgeons don’t do them often enough. Mobile apps are being touted as a potential solution, but they have a significant limitation. They do not give the surgeon the ability to decide what skills they want to rate. This is a problem because residents have to learn entirely different skills for different procedures. For example, a General Surgery resident has to learn at least 130 procedures. Current mobile apps approach this by simply making the rating scales very general and broad, which doesn’t help residents know how they are really doing. It also doesn’t ensure that patients will get a surgeon with the right skills.
+
+The goal of this project is an app optimized for smart phones with two functions: an evaluator side in which a surgeon can rate a resident’s skills and a manager side in which the same surgeon can author the criteria they want to rate their residents on. Ultimately, the app should result in more surgeons rating their residents more often on procedure-specific skills.
+
+A typical scenario would be the surgeon wants to create an evaluation form for a procedure. The surgeon logs into the manager side of the app and free-text enters the name of each skill and resident they want to evaluate. The surgeon has to decide how best to score that skill, so a list of scale types is available to choose from (yes/no; likert scale 0-5; text box; etc). Once done, the form appears on the evaluator side of the app. The evaluator side also displays boxes for the name of the procedure name and an interactive calendar for the date of the surgery. After the resident has performed a surgery, the attending launches the app and fills out an evaluation for them. Later, the resident may log in to see their evaluation data which can be visualized in several ways. They can see a composite score of every time they have performed this procedure. They can drill down to see whether specific skills are getting better over time. The attending surgeon can also see this data. The visualization of data helps the attending and resident talk about how to improve on what skills.
+
+* Team size: 3/4 students
+* POC: Eliza Beth Littleton, Research Associate Professor at the Department of Surgery (bethlittleton@pitt.edu)
+
+
+
+
+
+
 
 
 ## Bioinformatics/Computational Biology projects (**CS students can apply to some**)
