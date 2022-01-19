@@ -164,7 +164,7 @@ Faculty and students across Pitt’s School of Medicine and School of Computing 
 * POC: Prof Jacob Biehl, Ph.D. (CS/SCI), Dr Edward Andrews, M.D. (Neurosurgery, PittMed/UPMC)
 
 
-### Devices for indoor people navigation
+### Smart displays for indoor navigation
 
 This project will be integrated with a Masters Project. A Masters student is working on an application that facilitates navigation of people across buildings. Think navigating hospital corridors to go get an x-ray without staff guidance.
 
@@ -194,7 +194,7 @@ In this project, we will explore the use of explainable AI to understand and dev
 
 
 * Team size: 2-3 students
-* POC: TBD
+* POC: Henrique Potter (potter.cs@pitt.edu)
 
 
 ### Pitt Cyber Range - Active RST Attack Lab
@@ -207,12 +207,14 @@ The Pitt Cyber Range is a sandboxed environment to simulate real cybersecurity a
 
 The major challenge in performing a RST attack is to (a) successfully forge a RST packet that has the correct sequence number and (b) have the forged RST packet arrive at the destination before the legitimate packet.
 
-The purpose of this project is to develop a hands-on exercise for students to experience performing a successful RST attack. The student team will develop a Python script that runs on two Kali Virtual Machines (VMs) to send/receive data in a way that makes RST attacks feasible. The script should include enough “wait” times to allow students (simulating an attacker) the opportunity to send their forged RST packet and send it to either VMs such that it can be accepted. In addition, the script should be able to detect correct RST packets received and restart the communication. The student team should be able to also demo the project by successfully forging a RST packet and sending it to either Kali VMs.
+The purpose of this project is to develop a hands-on exercise for students to experience performing a successful RST attack. The student team will develop a **_Python_** script (which uses Python’s [sockets](https://realpython.com/python-sockets/) and [Scapy](https://scapy.net/)) that runs on two Kali Virtual Machines (VMs) to send/receive data in a way that makes RST attacks feasible. The script should include enough “wait” times to allow students (simulating an attacker) the opportunity to send their forged RST packet and send it to either VMs such that it can be accepted. In addition, the script should be able to detect correct RST packets received and restart the communication. The student team should be able to also demo the project by successfully forging a RST packet and sending it to either Kali VMs.
 
 To minimize the reporting burden on students using this lab and the grading burden on faculty, students will be asked to include an email address in the payload of the forged RST packet such that the script can send an automated email to the student (and the instructor) indicating the success of the attack. If there’s time remaining in the semester, the script, developed by the student team, should (a) inspect the payload of any successful RST packet to find the email address (of the student performing the lab) and (b) send an email to that email indicating the success of the attack.
 
+
+
 * Team size: 3-4 students
-* POC: Ahmed Ibrahim  (aibrahim at pitt.edu)
+* POC: Ahmed Ibrahim  (aibrahim@pitt.edu)
 
 
 ### The skills of college education and successful careers PI: Prof. Morgan R. Frank
@@ -349,4 +351,4 @@ All projects will make extensive use of JavaScript.  In some, but not all, cases
 - **Project 3** -  Develop a new causal learning algorithm for multinomial data distributions.  Application to gene expression regulatory network reconstruction.
 
 * Team size: 2/3 students per project
-* POC: Takis Benos (benos at pitt.edu)
+* POC: Takis Benos (benos@pitt.edu)
