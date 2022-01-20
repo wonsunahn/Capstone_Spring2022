@@ -326,6 +326,18 @@ A typical scenario would be the surgeon wants to create an evaluation form for a
 ## Bioinformatics/Computational Biology projects (**CS students can apply to some**)
 
 
+### Optimizing Molecular Simulations in the WESTPA Software
+
+
+
+**_Main project_**
+With any given computational resource, there is always a decision whether we should run multiple short independent simulations (can be run in parallel) vs. one long simulation (longer history correlation between trajectories). Students would analyze the weighted ensemble simulations from both protocols, correlating the efficiency (wall-clock time, CPU time, aggregated simulation time) vs. convergence to the known rate of association, understanding the advantages/disadvantages of both.
+ 
+**_Advanced goals_**
+Weighted Ensemble simulations typically require a long time to fully converge to the desired ensemble (Steady State or Equilibrium) from initial starting conditions. In order to speed up the process, we can employ reweighting schemes to adjust trajectory weights based on existing data, further nudging the system towards the desired ensemble. WESS and haMSM are two such reweighting protocols available for WESTPA. WESS calculates the steady state bin-to-bin transitions to predict WE bin population, then reweight the trajectories from the last iteration in a per-bin basis. haMSM creates a history augmented markov state model (a MSM with information on which state it was previously from), calculate the steady state population of each MSM-bin and start a new simulation using trajectories reweighed based on the WE weights and MSM bin occupation. Students would try to compute the efficiency of each protocol to see how quickly it converges to the expected rate of association.
+
+
+
 ### Improving 3Dmol.js, an online WebGL molecular viewer
 
 **CS students can apply**
