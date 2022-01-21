@@ -9,7 +9,7 @@ permalink: /projects/
 
 
 
-Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (27 January) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BY the next Capstone class on Friday (29 January). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
+Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (26 January) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BY the next Capstone class on Friday (28 January). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
 
 REMEMBER TO ADD "PROJECT" TO THE BEGINNING OF YOUR ISSUE TITLE!
 

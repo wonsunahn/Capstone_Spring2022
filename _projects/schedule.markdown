@@ -12,19 +12,18 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 
 |Date          | Topic                                                                                                                             |
 |--------------+-----------------------------------------------------------------------------------------------------------------------------------|
-| January 14    | Introduction                                                                                                                      |
-| January 21  | Project pitches - save time after class things tend to drag a bit :)                                                                                  |
-| September 10 | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) - project begins!                                               |
-| September 17 | [Presentation 2]({{site.baseurl}}/lectures/Capstone_Lecture2_RequirementsElicitation.pdf)  - Project proposal due (one per group) |
-| September 24 | Retrospective 1                                                                                                                   |
-| October 1    | [Presentation 4]({{site.baseurl}}/lectures/Writing a document.pdf)                                                                |
-| October 8    | Retrospective 2                                                                                                                   |
-| October 15   | No class                                                                                                                          |
-| October 22   | Retrospective 3 - Midterm update due                                                                                              |
-| October 29   | Midterm update and presentations **MUST INCLUDE FUNCTIONAL DEMO**                                                                 |
-| November 5   | Retrospective 4                                                                                                                   |
-| November 12  | [Presentation 5]({{site.baseurl}}/lectures/lecture-on-presentations.pdf)                                                          |
-| November 19  | Retrospective 5                                                                                                                   |
-| November 26  | Turkey break                                                                                                                      |
-| December 3   | TBD - Wrap-up project                                                                                                             |
-| December 10  | Presentations                                                                                                                     |
+| January 14   | Introduction                                                                                                                      |
+| January 21   | Project pitches - save time after class things tend to drag a bit :)                                                              |
+| January 28   | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) - project begins!                                               |
+| February 4   | [Presentation 2]({{site.baseurl}}/lectures/Capstone_Lecture2_RequirementsElicitation.pdf)  - Project proposal due (one per group) |
+| February 11  | Retrospective 1                                                                                                                   |
+| February 18  | [Presentation 3]({{site.baseurl}}/lectures/lecture-on-presentations.pdf)                                                          |
+| February 25  | Retrospective 2                                                                                                                   |
+| March 4      | [Presentation 4]({{site.baseurl}}/lectures/Writing a document.pdf)                                                                |
+| March 11     |  No class                                                                                                                         |
+| March 18     | Retrospective 3  Midterm update due                                                                                               |
+| March 25     |    TBD                                                                                                                            |
+| April 1      |  Retrospective 4                                                                                                                  |
+| April 8      |   TBD                                                                                                                             |
+| April 15     | Retrospective 5                                                                                                                   |
+| April 21     | TBD - Wrap-up project and presentations/poster session                                                                            |
