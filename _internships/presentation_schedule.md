@@ -10,16 +10,16 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 1 (Week of 14 JAN)
 
-* Introduction to syllabus and course requirements
-* [Lecture on giving a good presentation]()
+* [Introduction to course requirements](/lectures/introduction-internship.pdf)
+* [Lecture on giving a good presentation](/lectures/lecture-on-presentations-internship.pdf)
   
 ## WEEK 2 (Week of 21 JAN)
 
-* [Lecture on assertion evidence format]()
+* [Lecture on assertion evidence format](/lectures/lecture-on-assertion-evidence-format.pdf)
 
 ## WEEK 3 (Week of 28 JAN)
 
-* Student presentation
+* Richard Goulazian
   
 ## WEEK 4 (Week of 4 FEB)
 
