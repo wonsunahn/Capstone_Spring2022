@@ -23,23 +23,25 @@ The presentations will be given in the order they are listed on the particular d
   
 ## WEEK 4 (Week of 4 FEB)
 
-* Student presentation
+* David Mash
 
 ## WEEK 5 (Week of 11 FEB)
 
-* Student presentation
+* Brendan Koch
 
 ## WEEK 6 (Week of 18 FEB)
 
-* Student presentation
+* Lucas Willocq
+* Syed Rizvi
 
 ## WEEK 7 (Week of 25 FEB)
 
-* Student presentation
+* Joel Julin
 
 ## WEEK 8 (Week of 4 MAR)
 
-* Student presentation
+* Joshua Mateer
+* James Fenn
 
 ## WEEK 9 (Week of 11 MAR)
 
@@ -47,24 +49,27 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 10 (Week of 18 MAR)
 
-* Student presentation
+* Matthew Flancer
+* Jinlang Wang
 
 ## WEEK 11 (Week of 25 MAR)
 
-* Student presentation
+* Brendan Koch
 
 ## WEEK 12 (Week of 1 APR)
 
-* Student presentation
+* Branden Brown
 
-## WEEK 13 (Week of 7 APR)
+## WEEK 13 (Week of 8 APR)
 
-* Student presentation
+* Clark Necciai
+* Hunsi Jayaprakash
 
 ## WEEK 14 (Week of 15 APR)
 
-* Student presentation
+* Benjy Gilby
 
 ## WEEK 15 (Week of 22 APR)
 
-* Student presentation
+* David Roberts
+* Sean Steinle
