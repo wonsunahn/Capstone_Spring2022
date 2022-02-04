@@ -54,6 +54,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 11 (Week of 25 MAR)
 
 * Brendan Koch
+* Sophie Boland
 
 ## WEEK 12 (Week of 1 APR)
 
