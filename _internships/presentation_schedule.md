@@ -27,11 +27,10 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 5 (Week of 11 FEB)
 
-* Brendan Koch
+* Lucas Willocq
 
 ## WEEK 6 (Week of 18 FEB)
 
-* Lucas Willocq
 * Syed Rizvi
 
 ## WEEK 7 (Week of 25 FEB)
