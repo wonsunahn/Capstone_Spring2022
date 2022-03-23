@@ -58,8 +58,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 12 (Week of 1 APR)
 
-* Branden Brown
-
 ## WEEK 13 (Week of 8 APR)
 
 * Clark Necciai
