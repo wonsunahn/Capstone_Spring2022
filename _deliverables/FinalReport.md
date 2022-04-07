@@ -51,14 +51,14 @@ I have provided example organizations for either internships or research apprent
     * Talk about the placement of your team in the organization.
     * Talk about how the rest of the paper is going to be organized.
     
-3. Objectives / Motivation
+1. Objectives / Motivation
     * Talk about the business need for the work that you were doing.
     * Talk about the final outcome that you were shooting for.
   
 1. Implementation
     * Talk about the actual work you did.  If you worked on multiple projects, you will likely have subsections.
     * Talk about the programming languages, frameworks, or tools that you used to achieve your goal.
-    * Talk about technical / organizational challlenges you faced and how you resolved them.
+    * Talk about technical / organizational challenges you faced and how you resolved them.
     * Optionally talk about the non-technical side of your work, such as communicating with clients, if you feel that was important.
     * Consider inserting figures or flow charts that describe your implementation.
     
@@ -71,6 +71,37 @@ I have provided example organizations for either internships or research apprent
     * Reflect on what you learned for the internship.  Were you able to fulfill all your learning goals?
     * Importantly, describe any issues in your organization that prevented you from reaching those goals (e.g. supervisor did not mentor you, there were organizational barriers, or employer changed goals when you got there).
 
+### Example organization for CS 1950 students
+
+1. Introduction
+    * Talk about the research group and general area of research.
+    * Talk about how the rest of the paper is going to be organized.
+
+1. Background
+    * Talk about any concepts, tools, pre-existing work that is necessary for understanding your contributions.
+    * If there is a lot of background to cover, you will likely have subsections.
+    * Limit the background to what is necessary to understand your work (for a CS undergrad).
+
+3. Motivation & Contribution
+    * Talk about what research question you are trying to answer.
+    * Talk about what the research will contribute to the state-of-the-art.
+    * Talk about what your own contribution in that research was.
+  
+1. Implementation
+    * Talk about the actual work you did.  Describe it at a high level and describe details in subsections.
+    * Talk about the programming languages, frameworks, or tools that you used to achieve your goal.
+    * Talk about technical / conceptual challenges you faced and how you resolved them.
+    * Consider inserting figures or flow charts that describe your implementation.
+    
+1. Outcome
+    * Talk about the final outcome of your project(s).
+    * Describe what research impact your work had.
+    * Explain goals that you were not able to achieve because of technical or organizational difficulties.
+
+1. Issues and reflections
+    * Reflect on what you learned for the apprenticeship.  Did you learn something new?
+    * Importantly, describe any issues in your group that prevented you from reaching those goals (e.g. supervisor did not mentor you, there were organizational barriers, or advisor changed goals when you got there).
+    
 ## Other
 
 Please feel free to email me or come to office hours to discuss any questions you have.  I encourage you to submit your final paper early on to get timely feedback so that you have time to resubmit.  The courseweb link allows unlimited submissions.
