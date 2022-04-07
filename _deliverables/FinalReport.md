@@ -40,26 +40,36 @@ The final paper should describe what you did for the capstone, and how you did i
 
 In general, what I would like to see is a good understanding of what you did, and what you learned, doing the work for the capstone.  If you worked on anything sensitive (e.g., for a government contractor or private data for a company), you do not need to refer to it in your write-up.  If there is any doubt, you may wish to show your supervisor the paper so that they may review it before turning it in.
 
-## Example Organization
+## Paper Organization
 
-1. Objectives
-    * This project objectives were…
-  
-1. Approach
-    * I solved the problem by using X and Y technique (This is going to be the meat of your report.) 
-    * Communication with client was done like so
+I have provided example organizations for either internships or research apprenticeships.  Please feel free to use your own organization.  Regardless of what organization you use, I am going to ask you to have sections / subsections and corresponding section headers.  Each section should focus on the topic described in the section header.  A section should comprise of one or more paragraphs that are also well-focused.
+
+### Example organization for CS 1900 students
+
+1. Introduction
+    * Talk about the company itself and what types of products it makes.
+    * Talk about the placement of your team in the organization.
+    * Talk about how the rest of the paper is going to be organized.
     
-1. Completion
-    * Fulfilled initially set objectives 1 through 5
-    * Did not complete 6 through 7 due to a change of requirements
-    * Could not complete 8 because of technical difficulties
+3. Objectives / Motivation
+    * Talk about the business need for the work that you were doing.
+    * Talk about the final outcome that you were shooting for.
+  
+1. Implementation
+    * Talk about the actual work you did.  If you worked on multiple projects, you will likely have subsections.
+    * Talk about the programming languages, frameworks, or tools that you used to achieve your goal.
+    * Talk about technical / organizational challlenges you faced and how you resolved them.
+    * Optionally talk about the non-technical side of your work, such as communicating with clients, if you feel that was important.
+    * Consider inserting figures or flow charts that describe your implementation.
+    
+1. Outcome
+    * Talk about the final outcome of your project(s).
+    * Describe what business impact your work had.
+    * Explain goals that you were not able to achieve because of technical or organizational difficulties.
 
 1. Issues and reflections
-    * Using tool X was a good decision because…
-    * Using tool Y was a bad decision because…
-    * Communicated with stakeholders in this way; It did(n’t) work because…
-
-This is only an example organization.  Feel free to use your own organization if you'd like but it should contain all the major components.
+    * Reflect on what you learned for the internship.  Were you able to fulfill all your learning goals?
+    * Importantly, describe any issues in your organization that prevented you from reaching those goals (e.g. supervisor did not mentor you, there were organizational barriers, or employer changed goals when you got there).
 
 ## Other
 
